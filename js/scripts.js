@@ -8,15 +8,12 @@ console.log("(a*a) + (2 * a * b) -(b * b) , where a is equal " + a + " and b is 
 if (value > 0) {
 	console.log("The result is positive");
 }
-
 else if (value < 0) {
 	console.log("The resalt is negative");
 }
-
 else if (value == 0) {
 	console.log("Te resalt is 0 ");
 }
-
 else {
 	console.log("This is not a number!");
 }
